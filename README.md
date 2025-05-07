@@ -9,6 +9,10 @@
 # Tutorial to get to console 
 ![image](https://github.com/user-attachments/assets/d0964f44-f3d1-487d-b54a-dcdcd9221ebf)
 
+--------------------------------------------------------------------
+
 # LINKS
 
 ### GitHub - https://www.github.com/syxfer/
+
+--------------------------------------------------
