@@ -1,7 +1,7 @@
 # How To Use 
 
 ### Step 1 - Open Cookie Clicker [ https://cookieclicker.eu/cookieclicker/ ]
-### Step 2 - Use The keyboard command - Ctr + Shift + C
+### Step 2 - Use The keyboard command - Ctrl + Shift + C
 ### Step 3 - Paste Code into console amd click enter
 ----------------------------------------------------------------------------
 
