@@ -11,6 +11,12 @@
 
 --------------------------------------------------------------------
 
+# Simple Easter-egg hacks
+
+### 1 - Chnage Your bakerys name to "saysopensesame" 
+
+-----------------------------------------------------------------------
+
 # LINKS
 
 ### GitHub - https://www.github.com/syxfer/
